@@ -1,6 +1,9 @@
 # GamerBux
- Game
+ Project Report :
  
+ [reportfinal.pdf](https://github.com/khansalikaziz/GamerBux/files/7574380/reportfinal.pdf)
+
+Screenshots 
  
 ![sc9](https://user-images.githubusercontent.com/76683360/142201865-3d550c07-65bf-4009-a27b-27cd4fd1514a.jpg)
 
