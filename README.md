@@ -1,13 +1,6 @@
 # GamerBux
  # Project Report : [reportfinal.pdf](https://github.com/khansalikaziz/GamerBux/files/7574380/reportfinal.pdf)
 
-We are using firebase as our database and we are using pyrebase library to use it’s feature. The main reason for using firebase is that Firebase is a platform developed by Google(so there will not any security issues) and it is providing realtime access to data. 
-For GUI I am using Kivy and purpose of using it is that Kivy is a free and open source Python framework for developing desktop application and other multitouch application software with a natural user interface. 
-This authentication system includes several activities-:
-1)	Main page /Login Page
-	On this page there are 2 input fields which collect email and password from user.
-	There is a login button which performs the authentication process from firebase database on click event(onclick) and if authentication is successful then user can access dashboard and if it is unsuccessful it will display an error message.
-
 Screenshots 
 
 ![sc1](https://user-images.githubusercontent.com/76683360/142201883-99551015-85f6-4ef6-9e22-32f56eb7d9f7.jpg)
